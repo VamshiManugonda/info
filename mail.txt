@@ -94,3 +94,58 @@ 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 - git tocken
 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 git tocken
 
 11bfa94fc945049bf9dc2fbc9b5c5e2bdf jenkins
+
+
+Hello sir/maam, I am looking for a job opportunity. Could you please assist me?
+
+Do connect
+Lets connect everyone
+
+#letsconnect
+#letsgrowtogether #opentoconnections #opentonewconnections #network #networking #businessnetwork
+
+#personaldevelopment #professionalnetworking #share #sharethis #noidk #lion #linkedinconnections
+
+#letsconnect #connecting #connection #india #usa
+
+#connections #wearefriends #getconnected #grow #letsgrow #letsgrowtogether #opentoconnect
+
+#growyournetwork #helpingothers #america #increaseyournetwork #linkedinconnections
+
+#performance #linkedinnetworking #usajobs #usajob
+
+#newconnections #opentoconnections #ukraine #Everyone
+
+#growtogether #letsconnect #letsgrowmore #linkedinnetwork #connectglobal #makeconnections #socialsunday #socialmedia #tuesdaythoughts
+
+#tuesday #wednesdaywisdom #wednesdaythoughts #wednesday #thursdaythoughts #thursdayvibes #India
+#Innovation #Management #HumanResources #DigitalMarketing #Technology #Creativity
+#Future #Futurism #Entrepreneurship #Careers #Markets #Startups #Marketing #SocialMedia
+#VentureCapital #SocialNetworking #LeanStartups #Economy #Economics
+#learning #network #career opportunities #opportunities #networking #connecting #connections #careers #education
+#recruiter #recruiters #recruitment #talentacquisition #socialsaturday #socialsunday 
+
+#AWS #AmazonWebServices #CloudComputing #CloudArchitecture #devops
+#ContinuousIntegration #ContinuousDeployment #InfrastructureAsCode #Serverless #Microservices #Containers #Docker #Kubernetes #AgileDevelopment #SoftwareDevelopment #Automation #ITOps #CloudMigration #CloudSecurity #AWSCommunity #AWS #AmazonWebServices #CloudComputing #CloudArchitecture #CloudMigration #CloudSecurity #Serverless #Microservices #Containers #Docker #Kubernetes #InfrastructureAsCode #BigData #ArtificialIntelligence #MachineLearning #DataAnalytics #IoT #DevOps #ContinuousIntegration #ContinuousDelivery #DevOps #ContinuousIntegration #ContinuousDeployment #InfrastructureAsCode #Serverless #Microservices #Containers #Docker #Kubernetes #Automation #AgileDevelopment #SoftwareDevelopment #ITOps #CloudComputing #CloudArchitecture #CloudMigration #CloudSecurity #DevSecOps #Monitoring #Collaboration #LinkedIn #Business #Leadership #Career #Networking #Entrepreneurship #JobSearch #ProfessionalDevelopment #Marketing #Sales #Technology #HumanResources #Finance #Education #WorkFromHome #RemoteWork #DiversityAndInclusion #WomenInBusiness #Startup #SmallBusiness
+
+
+TYPvkDPuswQbGGo/M82PX/H08YkGKK+dvGHhD3bg -secacces
+AKIA6LOSJH6RXEXXLBMS acces
+
+
+---
+ - name: play for creating an aws ec2 instance
+   hosts: localhost
+   connection: local
+   tasks:
+   - name: creation of ec2 instance using ec2 moudle
+     ec2:
+      instance_type: t2.micro
+      image: ami-09ba48996007c8b50
+      region: ap-south-1
+      key_name: DevOps
+      count: 2
+      aws_access_key: AKIA6LOSJH6RXEXXLBMS
+      aws_secret_key: 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
+
+
